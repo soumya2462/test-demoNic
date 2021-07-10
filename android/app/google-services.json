@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071576571182",
+    "firebase_url": "https://rnlearning-c6c64.firebaseio.com",
+    "project_id": "rnlearning-c6c64",
+    "storage_bucket": "rnlearning-c6c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071576571182:android:2e1d639dc0ae9aa45baebf",
+        "android_client_info": {
+          "package_name": "com.iatesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071576571182-tk70dou5e3s52fv8klop72hjqtalu9bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkf7mEGCANgHpVivdcNrh78N7Oirtdbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071576571182-tk70dou5e3s52fv8klop72hjqtalu9bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
