@@ -23,16 +23,11 @@ const Results = ({ route }) => {
       return (
         <View style={styles.itemContainer}>
           <Text>{item.blockText}</Text>
-          <Text>{item.resultText}</Text>
+          {/* <Text>{item.resultText}</Text> */}
         </View>
       )
     }
-    return (
-      <View style={styles.itemContainer}>
-        <Text>{`Objeto: ${item.description}`}</Text>
-        <Text>{`Confidence: ${item.confidence}`}</Text>
-      </View>
-    )
+    
   }
 
   return (
