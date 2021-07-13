@@ -22,8 +22,12 @@ const Results = ({ route }) => {
     if(type === "Text") {
       return (
         <View style={styles.itemContainer}>
-          <Text>{item.blockText}</Text>
-          {/* <Text>{item.resultText}</Text> */}
+          
+          {item.blockText=="1HGCM82633A 004352" ?
+          <Text>{item.blockText} is Verify</Text>
+          :
+          <Text>{item.blockText} not Verify</Text>
+          }
         </View>
       )
     }
